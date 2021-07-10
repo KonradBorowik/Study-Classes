@@ -1,5 +1,5 @@
 # Study-classes
- Some scripts I wrote to solve problems during study classes.
+ Scripts I wrote to solve problems during study classes.
 
 Libraries used:
 * numpy
